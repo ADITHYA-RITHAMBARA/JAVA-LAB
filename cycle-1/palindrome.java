@@ -1,5 +1,5 @@
 import java.util.*;
-class fibonacci
+class palindrome
 {
     public static void main(String args[])
     {
